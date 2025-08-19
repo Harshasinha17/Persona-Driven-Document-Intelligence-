@@ -1,0 +1,1 @@
+Persona-Driven Document Intelligence system that extracts and ranks relevant PDF sections based on a given persona and job-to-be-done. Includes parser, embedder, ranker, and subsection analyzer with offline Dockerized execution.
