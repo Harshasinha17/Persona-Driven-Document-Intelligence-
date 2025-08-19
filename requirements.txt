@@ -1,0 +1,5 @@
+pdfplumber 
+PyMuPDF 
+tqdm 
+sentence-transformers 
+numpy 
